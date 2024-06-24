@@ -1,0 +1,28 @@
+.newquote {
+    width: 250px;
+    color: white;
+    height: 80px;
+    background-color: blue;
+}
+
+h1 {
+    font-size: 80px;
+    font-family: Impact;
+    font-weight: bold;
+}
+
+.newquote:hover {
+    background-color: green;
+}
+
+p {
+    font-size: 35px;
+}
+
+* {
+    line-height: 2;
+}
+
+.newquote {
+    cursor: default !important;
+}
